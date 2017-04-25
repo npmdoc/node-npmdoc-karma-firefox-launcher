@@ -1,4 +1,7 @@
-# api documentation for  [karma-firefox-launcher (v1.0.1)](https://github.com/karma-runner/karma-firefox-launcher#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-firefox-launcher.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-firefox-launcher) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-firefox-launcher.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-firefox-launcher)
+# npmdoc-karma-firefox-launcher
+
+#### basic api documentation for  [karma-firefox-launcher (v1.0.1)](https://github.com/karma-runner/karma-firefox-launcher#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-firefox-launcher.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-firefox-launcher) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-firefox-launcher.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-firefox-launcher)
+
 #### A Karma plugin. Launcher for Firefox.
 
 [![NPM](https://nodei.co/npm/karma-firefox-launcher.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-firefox-launcher)
@@ -142,7 +145,8 @@
         "release": "standard-version",
         "test": "karma start --single-run"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
